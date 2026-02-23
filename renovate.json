@@ -1,0 +1,11 @@
+{
+"packageRules": [
+      {
+        "matchCurrentVersion": "^0.0.0",
+        "matchDatasources": ["npm"],
+        "matchPackageNames": ["express-mung"],
+        "replacementName": "express-response-middleware",
+        "replacementVersion": "1.0.0"
+      }
+    ]
+}
